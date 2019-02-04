@@ -1,1 +1,3 @@
 welcome to Bitmaker!
+
+learning git is confusing but fun!
